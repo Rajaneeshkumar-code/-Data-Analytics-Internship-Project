@@ -1,5 +1,3 @@
-# 02 - Statistics
-
 This folder is part of the [Data Analytics Internship Project](https://github.com/Rajaneeshkumar-code/-Data-Analytics-Internship-Project) and contains notes, notebooks, and reference material covering core statistics concepts used in data analytics.
 
 ## 📂 Contents
